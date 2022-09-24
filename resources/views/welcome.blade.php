@@ -22,7 +22,8 @@
         <a style="font-size: 26px"> Asociación Departamental de Voleibol Oruro</a>-->
         
         <div class="contanier">
-        <center>  
+        <center> 
+            <h1> Blog del Ingeniero Roly Fernandez</h1> 
             @if (Route::has('login'))
                 <div class="top-right links">
                     @auth
